@@ -10,7 +10,7 @@ Why?
 
 
 Hacks And Their Sources:
-[Meteor Client](https://github.com/ManInMyVan/meteor-archive)
-[Baritone](https://github.com/cabaletta/baritone)
-[Inertia](https://inertiaclient.com/) Not Open Source.
-[Cheat Utils](https://github.com/Zergatul/cheatutils)
+[Meteor Client](https://github.com/ManInMyVan/meteor-archive) 
+[Baritone](https://github.com/cabaletta/baritone) 
+[Inertia](https://inertiaclient.com/) 
+[Cheat Utils](https://github.com/Zergatul/cheatutils) 
