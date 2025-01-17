@@ -2,6 +2,10 @@
 
 Some instances have optimization mods other don't (using sodium for fabric and embedium for forge)
 
+### Don't forget to select the correct java path
+### Don't forget to increase the default 4gb of RAM
+
+
 How to install prism launcher instances?
 > This is the [video](https://youtu.be/CA2fdUzChCo?si=m3JoSt-hQRzCpVbd&t=267) made by [BillyDaBongo](https://www.youtube.com/@BillyDaBongo) that i recommend.
 
